@@ -1,7 +1,17 @@
+* {
+    box-sizing: border-box;
+}
+
 body {
     color: blue;
 }
 
 .title-big {
     color: brown;
+}
+h2 {
+    color: green;
+}
+.title-big:hover {
+    color: blue;
 }
