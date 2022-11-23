@@ -15,3 +15,16 @@ h2 {
 .title-big:hover {
     color: blue;
 }
+input[type="text"],
+input[type="email"] {
+    width: 200px;
+}
+.header {
+    background: gray;
+}
+.article {
+    background: blueviolet;
+}
+.footer {
+    background: brown;
+}
